@@ -1,0 +1,49 @@
+.h1{
+    font:arial;
+    font-size: 26px;
+    align-content: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin: 0%;
+    
+}
+.h2 {
+    color:yellow;
+    font: arial;
+    font-size: 18px;
+    text-align: left;
+    margin: 0%;
+}
+.p {
+    color: black;font: arial;font-size: 14px;text-align:justify ;text-indent: 50px;
+}
+.border{
+    border: 1px solid black;
+    width: 500px;
+    height: 70px;
+    position: relative;
+    top: 0;
+    left: 0;
+    border: 0px;
+    margin: 1px;
+    background-color: rgb(102, 58, 87);
+}
+a.link{
+    color: white;
+    font: arial;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+}
+.body{
+    background-color: rgb(28, 11, 23);
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
